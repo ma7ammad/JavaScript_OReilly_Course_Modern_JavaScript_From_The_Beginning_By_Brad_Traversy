@@ -3,7 +3,7 @@
 
 let val
 
-// Immidiatly Invokable Function Expression IFFEs
+// Immidiatly Invokable Function Expression IIFEs
 (function(){
   console.log('IIFE Ran ..')
 })();
